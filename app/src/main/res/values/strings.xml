@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Music Player JD</string>
+    <string name="shuffle_btn">Aleatorio</string>
+    <string name="favorites_btn">Favoritos</string>
+    <string name="playlist_btn">PLaylists</string>
 </resources>
