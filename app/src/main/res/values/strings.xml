@@ -13,4 +13,8 @@
     <string name="equalizer_btn">Equalizer</string>
     <string name="timer_btn">Timer</string>
     <string name="share_btn">Share</string>
+    <string name="previous">previous</string>
+    <string name="pause_btn">pause</string>
+    <string name="next">next</string>
+    <string name="add">add</string>
 </resources>
