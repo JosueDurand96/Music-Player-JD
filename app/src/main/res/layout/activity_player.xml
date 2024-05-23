@@ -5,6 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
+    android:id="@+id/main"
+    android:background="@color/white"
     android:orientation="vertical"
     tools:context=".PlayerActivity">
 
@@ -52,7 +54,7 @@
         android:layout_margin="10dp"
         android:src="@drawable/image_music_jd_splash"
         app:shapeAppearanceOverlay="@style/curved"
-        app:strokeColor="@color/color_blue"
+        app:strokeColor="@color/color_green"
         app:strokeWidth="3dp" />
 
     <TextView
